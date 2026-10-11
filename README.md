@@ -17,9 +17,9 @@ MyShop is a mini e-commerce mobile application built with Flutter. Users can bro
 - Navigation between 3 screens, passing the selected category and product
 
 ## Screenshots
-| Home Page | Category Page | Product Details |
-|---|---|---|
-| ![Home](screenshots/home.png) | ![Category](screenshots/category.png) | ![Details](screenshots/details.png) |
+| Home Page                                  | Category Page                                        | Product Details                                  |
+|--------------------------------------------|------------------------------------------------------|--------------------------------------------------|
+| ![Home](assets/image/screenshots/home.png) | ![Category](assets/image/screenshots/categories.png) | ![Details](assets/image/screenshots/details.png) |
 
 ## Project Structure
 ```
